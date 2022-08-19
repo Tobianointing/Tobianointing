@@ -16,7 +16,6 @@
 <p align="left">
 <a href="https://twitter.com/elementkayode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elementkayode" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tobianointing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tobianointing" height="30" width="40" /></a>
-<a href="https://kaggle.com/tobianointing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tobianointing" height="30" width="40" /></a>
 <a href="https://instagram.com/tobianointing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tobianointing" height="30" width="40" /></a>
 </p>
 
