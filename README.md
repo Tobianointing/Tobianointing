@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oluwatobi Anointing</h1>
-<h3 align="center">Full-Stack Developer(Backend-Heavy) | Python Developer</h3>
+<h3 align="center">Full-Stack Developer | Python Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/elementkayode" target="blank"><img src="https://img.shields.io/twitter/follow/elementkayode?logo=twitter&style=for-the-badge" alt="elementkayode" /></a> </p>
 
 - 🔭 I’m currently working on [Video Conferencing Application](https://github.com/Tobianointing/vidCon)
 
