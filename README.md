@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [A Food Delivery Web Application](https://github.com/Tobianointing/food-delivery)
 
-- 🌱 I’m currently learning **Nextjs, Typescript and Graphql**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Django, Python, PHP and React**
+- 💬 Ask me about **Nextjs, Typescript, Django, Python, PHP and React**
 
 - 📫 How to reach me **adeyokunnuo@gmail.com**
 
